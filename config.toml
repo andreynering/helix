@@ -4,7 +4,9 @@ theme = "catppuccin_macchiato"
 # Always put yank into the clipboard
 [keys.normal]
 y = "yank_main_selection_to_clipboard"
+d = ["yank_main_selection_to_clipboard", "delete_selection"]
 p = "paste_clipboard_after"
 P = "paste_clipboard_before"
 [keys.select]
 y = "yank_main_selection_to_clipboard"
+d = ["yank_main_selection_to_clipboard", "delete_selection"]
