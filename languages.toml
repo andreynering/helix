@@ -8,3 +8,7 @@ auto-format = false
 [[language]]
 name = "yaml"
 auto-format = false
+
+[[language]]
+name = "html"
+auto-format = false
