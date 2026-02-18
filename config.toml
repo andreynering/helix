@@ -1,6 +1,9 @@
 # theme = "catppuccin_macchiato" 
 # theme = "catppuccin_latte"
 
+[editor]
+auto-format = false
+
 # Always put yank into the clipboard
 [keys.normal]
 y = "yank_main_selection_to_clipboard"
