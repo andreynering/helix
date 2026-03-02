@@ -1,5 +1,8 @@
-# theme = "catppuccin_macchiato" 
-# theme = "catppuccin_latte"
+theme = "dracula"
 
 [editor]
 auto-format = false
+
+[keys.normal.space]
+L = ":theme alucard"
+D = ":theme dracula"

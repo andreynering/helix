@@ -1,0 +1,34 @@
+# UI Core
+"ui.background" = { bg = "#F8F8F2" }
+"ui.text" = "#282A36"
+"ui.cursor" = { fg = "#F8F8F2", bg = "#282A36" }
+"ui.selection" = { bg = "#E6E6E6" } # Light grey selection
+"ui.cursorline.primary" = { bg = "#F1F1E0" } # Subtle line highlight
+
+# Syntax Highlighting
+"keyword" = "#AF5FDF"      # Dracula Purple
+"function" = "#00AF5F"     # Dracula Green
+"variable" = "#282A36"     # Main Text Color
+"string" = "#D78700"       # Dracula Yellow
+"constant" = "#AF5FDF"     # Purple
+"punctuation" = "#282A36"
+"operator" = "#FF5FAF"     # Dracula Pink
+
+# Italics applied here
+"type" = { fg = "#00AFAF", modifiers = ["italic"] }               # Dracula Cyan
+"variable.parameter" = { fg = "#D75F00", modifiers = ["italic"] } # Dracula Orange
+"comment" = { fg = "#757575", modifiers = ["italic"] }           # Muted Grey
+
+# UI Elements
+"ui.statusline" = { fg = "#282A36", bg = "#E6E6E6" }
+"ui.statusline.inactive" = { fg = "#949494", bg = "#F8F8F2" }
+"ui.linenr" = { fg = "#BD93F9" }
+"ui.linenr.selected" = { fg = "#282A36", modifiers = ["bold"] }
+"ui.popup" = { bg = "#E6E6E6" }
+"ui.window" = { bg = "#E6E6E6" }
+
+# Diagnostic Colors
+"warning" = "#D75F00"
+"error" = "#FF5FAF"
+"info" = "#00AFAF"
+"hint" = "#00AF5F"
