@@ -3,6 +3,9 @@ theme = "dracula"
 [editor]
 auto-format = false
 
+[editor.file-picker]
+hidden = false
+
 [keys.normal.space]
 L = ":theme alucard"
 D = ":theme dracula"
