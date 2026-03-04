@@ -26,6 +26,7 @@
 "ui.linenr.selected" = { fg = "#282A36", modifiers = ["bold"] }
 "ui.popup" = { bg = "#E6E6E6" }
 "ui.window" = { bg = "#E6E6E6" }
+"ui.virtual.ruler" = { bg = "#E8E8E8" }
 
 # Diagnostic Colors
 "warning" = "#D75F00"
