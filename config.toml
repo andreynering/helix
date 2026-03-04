@@ -2,6 +2,7 @@ theme = "dracula"
 
 [editor]
 auto-format = false
+rulers = [80, 120]
 
 [editor.file-picker]
 hidden = false
