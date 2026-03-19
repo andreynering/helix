@@ -8,6 +8,7 @@ trim-final-newlines = true
 
 [editor.file-picker]
 hidden = false
+git-ignore = false
 
 [keys.normal.space]
 L = ":theme alucard"
