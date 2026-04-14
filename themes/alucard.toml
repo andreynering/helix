@@ -33,3 +33,11 @@
 "error" = "#FF5FAF"
 "info" = "#00AFAF"
 "hint" = "#00AF5F"
+
+# Diagnostic Highlights - subtle underlines instead of backgrounds
+"diagnostic.error" = { underline = { color = "#FF5FAF", style = "curl" } }
+"diagnostic.warning" = { underline = { color = "#D75F00", style = "curl" } }
+"diagnostic.info" = { underline = { color = "#00AFAF", style = "curl" } }
+"diagnostic.hint" = { underline = { color = "#00AF5F", style = "curl" } }
+"diagnostic.unnecessary" = { modifiers = ["dim"] }
+"diagnostic.deprecated" = { modifiers = ["crossed_out"] }
