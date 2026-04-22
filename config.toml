@@ -13,3 +13,4 @@ git-ignore = false
 [keys.normal.space]
 L = ":theme alucard"
 D = ":theme dracula"
+Y = ":sh echo -n %{buffer_name} | pbcopy"
