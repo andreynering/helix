@@ -14,3 +14,4 @@ git-ignore = false
 L = ":theme alucard"
 D = ":theme dracula"
 Y = ":sh echo -n %{buffer_name} | pbcopy"
+M = ":set-language markdown"
