@@ -2,6 +2,10 @@
 "ui.background" = { bg = "#F8F8F2" }
 "ui.text" = "#282A36"
 "ui.cursor" = { fg = "#F8F8F2", bg = "#282A36" }
+"ui.cursor.primary.normal" = { fg = "#F8F8F2", bg = "#282A36" }
+"ui.cursor.primary.insert" = { fg = "#F8F8F2", bg = "#00AF5F" }
+"ui.cursor.primary.select" = { fg = "#F8F8F2", bg = "#AF5FDF" }
+"ui.cursor.match" = { fg = "#282A36", bg = "#BD93F9" }
 "ui.selection" = { bg = "#E6E6E6" } # Light grey selection
 "ui.cursorline.primary" = { bg = "#F1F1E0" } # Subtle line highlight
 
