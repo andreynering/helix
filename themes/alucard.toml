@@ -6,6 +6,12 @@
 "ui.cursor.primary.insert" = { fg = "#F8F8F2", bg = "#00AF5F" }
 "ui.cursor.primary.select" = { fg = "#F8F8F2", bg = "#AF5FDF" }
 "ui.cursor.match" = { fg = "#282A36", bg = "#BD93F9" }
+
+# Diff / Gutter Colors
+"diff.plus" = "#00AF5F"
+"diff.delta" = "#D78700"
+"diff.minus" = "#FF5FAF"
+
 "ui.selection" = { bg = "#E6E6E6" } # Light grey selection
 "ui.cursorline.primary" = { bg = "#F1F1E0" } # Subtle line highlight
 
