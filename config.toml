@@ -13,5 +13,5 @@ git-ignore = false
 [keys.normal.space]
 L = ":theme alucard"
 D = ":theme dracula"
-Y = ":sh echo -n %{buffer_name} | pbcopy"
+Y = ":sh printf %{buffer_name} | pbcopy"
 M = ":set-language markdown"
