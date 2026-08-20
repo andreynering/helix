@@ -14,5 +14,6 @@ git-ignore = false
 L = ":theme alucard"
 D = ":theme dracula"
 Y = ":sh printf %{buffer_name} | pbcopy"
+U = ":sh printf \"$(pwd)/%{buffer_name}\" | pbcopy"
 M = ":set-language markdown"
 W = ":toggle soft-wrap.enable"
