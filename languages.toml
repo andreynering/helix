@@ -3,3 +3,10 @@ name = "go"
 auto-format = true
 formatter = { command = "gofumpt" }
 language-servers = [ "gopls" ]
+
+[[language]]
+name = "toml"
+file-types = [
+  "toml",
+  { glob = "mise.lock" },
+]
